@@ -1,5 +1,4 @@
 # Face-Emotion-Detection
-Facial Emotion Detection
 Facial emotion detection projects involve using computer vision techniques and machine learning algorithms to analyze facial expressions in images or videos and determine the underlying emotions of the person. Here's a general description of such a project:
 
 Data Collection: The first step involves gathering a large dataset of images or videos containing faces displaying various emotions. These images/videos should be labeled with the corresponding emotion (e.g., happiness, sadness, anger, surprise, fear, disgust).
